@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.stocks-container {
+    margin: 0 auto;
+    width: 80%;
+    padding: 50px;
+    background-color: rgba(0,0,0,0.58);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.promo-cat-i {
+    width: 500px;
+    padding: 20px;
+    margin: 20px auto;
+    background: white;
+}
+.desc {
+    width: 70%;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    font-size: 18px;
+    margin: 20px auto;
+    text-align: center;
+}
